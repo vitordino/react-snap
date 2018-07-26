@@ -1,3 +1,4 @@
+// @flow
 const puppeteer = require("puppeteer");
 const _ = require("highland");
 const url = require("url");

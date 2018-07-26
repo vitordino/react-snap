@@ -1,3 +1,4 @@
+// @flow
 const crawl = require("./src/puppeteer_utils.js").crawl;
 const http = require("http");
 const express = require("express");
